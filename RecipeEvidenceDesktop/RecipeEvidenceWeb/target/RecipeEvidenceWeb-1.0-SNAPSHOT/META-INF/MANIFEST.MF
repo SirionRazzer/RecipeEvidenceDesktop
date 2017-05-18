@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Recipes web interface
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: tom
+Implementation-Vendor-Id: cz.muni.fi.pv168
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_131
+Main-Class: ${start-class}
+

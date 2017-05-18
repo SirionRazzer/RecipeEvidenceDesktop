@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RecipeEvidenceWeb:war">
+    <output-path>$PROJECT_DIR$/RecipeEvidenceWeb/target</output-path>
+    <root id="archive" name="RecipeEvidenceWeb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="RecipeEvidenceWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

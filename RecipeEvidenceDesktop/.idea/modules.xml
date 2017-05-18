@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RecipeEvidence/RecipeEvidence.iml" filepath="$PROJECT_DIR$/RecipeEvidence/RecipeEvidence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecipeEvidenceWeb/RecipeEvidenceWeb.iml" filepath="$PROJECT_DIR$/RecipeEvidenceWeb/RecipeEvidenceWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recipeevidence-app.iml" filepath="$PROJECT_DIR$/recipeevidence-app.iml" />
+    </modules>
+  </component>
+</project>

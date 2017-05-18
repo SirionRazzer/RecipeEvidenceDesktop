@@ -1,0 +1,39 @@
+----------------------------------------------------------------
+Thu May 18 12:45:19 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015c-1b29-6eeb-0000021c4c90 
+on database directory memory:/home/tom/Repository/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidence/categorymgr-test with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/tom/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/home/tom/Repository/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidence
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-75-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu May 18 12:45:22 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance 1c46c373-015c-1b29-6eeb-0000021c4c90 
+on database directory memory:/home/tom/Repository/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidence/dependencymgr-test with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/tom/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/home/tom/Repository/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidence
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-75-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu May 18 12:45:25 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance b1ea09b0-015c-1b29-6eeb-0000021c4c90 
+on database directory memory:/home/tom/Repository/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidence/recipemgr-test with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/tom/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/home/tom/Repository/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidenceDesktop/RecipeEvidence
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-75-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
